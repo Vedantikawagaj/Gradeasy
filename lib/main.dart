@@ -850,7 +850,7 @@ class _MainpageState extends State<Mainpage> {
                 onTap: (){
                   Navigator.pushNamed(context, '/start_grading');
                 },
-                child: Center(child: Image(image: AssetImage('assets/Grading.png'),height: 220,width: 220,))),
+                child: Center(child: Image(image: AssetImage('assets/GradingScreen.png'),height: 220,width: 220,))),
             Center(
               child: Text('Grading',
                 style: TextStyle(

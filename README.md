@@ -1,16 +1,17 @@
-# gradeeasy3
+<h1> GradeEasy </h1>
 
-A new Flutter project.
+This application calculates the semantic similarity between two documents using Latent Semantic Analysis (LSA) and Bilingual Evaluation Understudy (BLEU).
 
-## Getting Started
+<h2> Screenshots </h2>
+<div style="display:inline-block">
+    <img src="Screenshots/FirstScreen.png" height=200 />
+    <img src="Screenshots/ForgotPassword.png"/>
+    <img src="Screenshots/GradingScreen.png"/>
+    <img src="Screenshots/Homepage.png"/>
+    <img src="Screenshots/LoginScreen.png"/>
+    <img src="Screenshots/ResetPassword.png"/>
+    <img src="Screenshots/SignUpScreen.png"/>
+    <img src="Screenshots/Upload1.png"/>
+    <img src="Screenshots/ViewGrade.png"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>

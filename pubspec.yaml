@@ -53,7 +53,7 @@ flutter:
   assets:
     - assets/tenor.gif
     - assets/Gradeeasy.png
-    - assets/Grading.png
+    - assets/GradingScreen.png
     - assets/Feedback.png
     - assets/Upload.png
     - assets/Boy.webp
