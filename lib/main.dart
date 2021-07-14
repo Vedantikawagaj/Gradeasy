@@ -236,7 +236,7 @@ class _LoginPageState extends State<LoginPage > {
 
                                 child: Center(
                                   child: Text(
-                                    'The one and only Destination of easily grading your papers ',
+                                    'The one and only Destination for easy grading of your papers ',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                       fontSize: 18,
